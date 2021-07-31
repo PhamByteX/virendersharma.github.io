@@ -128,6 +128,6 @@ body{
     top: 0;
     left: 0;
     width: device-width;
-    height: device-height;
+    height: max-content;
     position: absolute;
   }
